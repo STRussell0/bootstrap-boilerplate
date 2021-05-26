@@ -12,7 +12,7 @@ The Boilerplate Template is designed to teach us how to get bootstrap ready to b
 
 ## Installation
 
-- Go to [Boilerplate Starter Template] (https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template) and copy the code into your html file in your code editor.
+- Go to [Boilerplate Starter Template](https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template) and copy the code into your html file in your code editor.
 
         <!doctype html>
         <html lang="en">
@@ -61,7 +61,7 @@ The Boilerplate Template is designed to teach us how to get bootstrap ready to b
 
 ## Documentation
 
-You can find more information regarding Bootstrap [On their website] (https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+You can find more information regarding Bootstrap [On their website](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 Be sure to check out the left hand side for the list of sections which include:
 
