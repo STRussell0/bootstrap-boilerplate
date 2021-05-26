@@ -82,4 +82,10 @@ Issue Tracker: https://github.com/STRussell0/bootstrap-boilerplate/issues
 
 Bootstrap is released under the MIT license and is copyright 2018 Twitter
 
-Contact: <stephenrussell2008@gmail.com>
+## Contact: 
+
+<stephenrussell2008@gmail.com>
+
+Please enjoy my cat sitting on my partner's cat.
+
+![Beenis & Otto] (https://pbs.twimg.com/media/EwugyNZUUAA5Jva?format=jpg&name=large)
