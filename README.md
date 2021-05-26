@@ -14,10 +14,10 @@ The Boilerplate Template is designed to teach us how to get bootstrap ready to b
 
 - Go to [Boilerplate Starter Template] (https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template) and copy the code into your html file in your code editor.
 
-    <!doctype html>
-    <html lang="en">
-    <head>
-        <!-- Required meta tags -->
+        <!doctype html>
+        <html lang="en">
+        <head>
+        !-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -25,8 +25,8 @@ The Boilerplate Template is designed to teach us how to get bootstrap ready to b
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
         <title>Hello, world!</title>
-    </head>
-    <body>
+        </head>
+        <body>
         <h1>Hello, world!</h1>
 
         <!-- Optional JavaScript; choose one of the two! -->
@@ -40,8 +40,8 @@ The Boilerplate Template is designed to teach us how to get bootstrap ready to b
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
         -->
-    </body>
-    </html>
+        </body>
+        </html>
 
 - Make sure to pick one of the optional Javascript choices. Option 1 is the standard. Delete whichever section you won't be using.
 
@@ -88,4 +88,4 @@ Bootstrap is released under the MIT license and is copyright 2018 Twitter
 
 Please enjoy my cat sitting on my partner's cat.
 
-![Beenis & Otto] (https://pbs.twimg.com/media/EwugyNZUUAA5Jva?format=jpg&name=large)
+![Beenis & Otto](https://pbs.twimg.com/media/EwugyNZUUAA5Jva?format=jpg&name=large)
